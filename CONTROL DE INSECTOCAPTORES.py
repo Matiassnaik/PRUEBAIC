@@ -4,7 +4,7 @@ from PIL import Image
 import io
 import base64
 # Poné tu API KEY acá
-OPENAI_API_KEY = OPENAI_API_KEY = "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"
+OPENAI_API_KEY = OPENAI_API_KEY = "APIKEYDEGOT"
 
 st.set_page_config(page_title="Análisis de Placas Insectocaptores", layout="centered")
 st.title("Análisis de Placas de Insectocaptor")
